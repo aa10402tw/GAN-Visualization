@@ -1,3 +1,4 @@
 "# GAN_Visulization" 
-"# GAN_visualization" 
-"# GAN_visualization" 
+
+
+![image](https://github.com/aa10402tw/GAN_visualization/blob/master/result/2D.gif)
